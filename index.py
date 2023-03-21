@@ -19,3 +19,4 @@ total_cost = cucumbers * price_per_cucumber
 
 print(type(total_cost))
 print(total_cost)
+
